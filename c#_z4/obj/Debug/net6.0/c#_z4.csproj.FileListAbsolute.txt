@@ -1,0 +1,15 @@
+G:\Notf\Sharaga\Maxim\c#_z4\bin\Debug\net6.0\c#_z4.exe
+G:\Notf\Sharaga\Maxim\c#_z4\bin\Debug\net6.0\c#_z4.deps.json
+G:\Notf\Sharaga\Maxim\c#_z4\bin\Debug\net6.0\c#_z4.runtimeconfig.json
+G:\Notf\Sharaga\Maxim\c#_z4\bin\Debug\net6.0\c#_z4.dll
+G:\Notf\Sharaga\Maxim\c#_z4\bin\Debug\net6.0\c#_z4.pdb
+G:\Notf\Sharaga\Maxim\c#_z4\obj\Debug\net6.0\c#_z4.GeneratedMSBuildEditorConfig.editorconfig
+G:\Notf\Sharaga\Maxim\c#_z4\obj\Debug\net6.0\c#_z4.AssemblyInfoInputs.cache
+G:\Notf\Sharaga\Maxim\c#_z4\obj\Debug\net6.0\c#_z4.AssemblyInfo.cs
+G:\Notf\Sharaga\Maxim\c#_z4\obj\Debug\net6.0\c#_z4.csproj.CoreCompileInputs.cache
+G:\Notf\Sharaga\Maxim\c#_z4\obj\Debug\net6.0\c#_z4.sourcelink.json
+G:\Notf\Sharaga\Maxim\c#_z4\obj\Debug\net6.0\c#_z4.dll
+G:\Notf\Sharaga\Maxim\c#_z4\obj\Debug\net6.0\refint\c#_z4.dll
+G:\Notf\Sharaga\Maxim\c#_z4\obj\Debug\net6.0\c#_z4.pdb
+G:\Notf\Sharaga\Maxim\c#_z4\obj\Debug\net6.0\c#_z4.genruntimeconfig.cache
+G:\Notf\Sharaga\Maxim\c#_z4\obj\Debug\net6.0\ref\c#_z4.dll

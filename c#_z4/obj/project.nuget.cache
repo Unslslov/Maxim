@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "NrnEsmI2h7MiVGb5eYiqiQl36bpDP0yOfYnRWMWoebR1TjS5a3kIb63bvdG9mx7j5TFJDMG71ojZD1DQKxkVHg==",
+  "success": true,
+  "projectFilePath": "G:\\Notf\\Sharaga\\Maxim\\c#_z4\\c#_z4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\marat\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\marat\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\marat\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\marat\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}
