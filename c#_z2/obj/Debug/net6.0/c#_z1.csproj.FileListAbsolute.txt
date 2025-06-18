@@ -1,0 +1,15 @@
+C:\Users\clasr\source\repos\Praktika_v_Maksim\c#_z1\bin\Debug\net6.0\c#_z1.exe
+C:\Users\clasr\source\repos\Praktika_v_Maksim\c#_z1\bin\Debug\net6.0\c#_z1.deps.json
+C:\Users\clasr\source\repos\Praktika_v_Maksim\c#_z1\bin\Debug\net6.0\c#_z1.runtimeconfig.json
+C:\Users\clasr\source\repos\Praktika_v_Maksim\c#_z1\bin\Debug\net6.0\c#_z1.dll
+C:\Users\clasr\source\repos\Praktika_v_Maksim\c#_z1\bin\Debug\net6.0\c#_z1.pdb
+C:\Users\clasr\source\repos\Praktika_v_Maksim\c#_z1\obj\Debug\net6.0\c#_z1.csproj.AssemblyReference.cache
+C:\Users\clasr\source\repos\Praktika_v_Maksim\c#_z1\obj\Debug\net6.0\c#_z1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\clasr\source\repos\Praktika_v_Maksim\c#_z1\obj\Debug\net6.0\c#_z1.AssemblyInfoInputs.cache
+C:\Users\clasr\source\repos\Praktika_v_Maksim\c#_z1\obj\Debug\net6.0\c#_z1.AssemblyInfo.cs
+C:\Users\clasr\source\repos\Praktika_v_Maksim\c#_z1\obj\Debug\net6.0\c#_z1.csproj.CoreCompileInputs.cache
+C:\Users\clasr\source\repos\Praktika_v_Maksim\c#_z1\obj\Debug\net6.0\c#_z1.dll
+C:\Users\clasr\source\repos\Praktika_v_Maksim\c#_z1\obj\Debug\net6.0\refint\c#_z1.dll
+C:\Users\clasr\source\repos\Praktika_v_Maksim\c#_z1\obj\Debug\net6.0\c#_z1.pdb
+C:\Users\clasr\source\repos\Praktika_v_Maksim\c#_z1\obj\Debug\net6.0\c#_z1.genruntimeconfig.cache
+C:\Users\clasr\source\repos\Praktika_v_Maksim\c#_z1\obj\Debug\net6.0\ref\c#_z1.dll
