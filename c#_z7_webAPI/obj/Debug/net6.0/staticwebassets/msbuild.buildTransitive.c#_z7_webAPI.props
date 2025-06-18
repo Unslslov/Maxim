@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\c#_z7_webAPI.props" />
+</Project>

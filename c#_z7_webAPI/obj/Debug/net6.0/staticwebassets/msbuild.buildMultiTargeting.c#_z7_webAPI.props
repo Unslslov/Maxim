@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\c#_z7_webAPI.props" />
+</Project>
